@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kaushlendra-2006/kaushlendra-singh/blob/main/Abstract%20Kaushal.gif" />
+  <img src="https://github.com/kaushlendra-2006/kaushlendra-2006/blob/main/Abstract%20KS.gif" />
 </p>
 
 
